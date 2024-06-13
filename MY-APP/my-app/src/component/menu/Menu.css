@@ -1,0 +1,5 @@
+.buku:hover, .peminjaman:hover, .pengembalian:hover, .pengguna:hover {
+    border-bottom: 3px solid blue;
+    transition: 0.5s ease-in-out;
+    background-color: blue;
+}
